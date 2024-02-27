@@ -170,3 +170,12 @@ Belajar Dasar Pemrograman Web. (Progres 18%)<br>
    * Anatomi Elemen HTML.
    * Attribute di Element HTML.
    * Anatomoni Dokumen HTML.<br>
+
+**27 Februari 2024**<br>
+Belajar Dasar Pemrograman Web. (Progres 27%).<br>
+1. Pendalaman HTML :
+   * Paragraf, Heading, List dan Gambar.
+   * Inline Formating Text, long Quotation dan Figure.
+   * Anchor, Emphasized Text, Important Text dan Short Quotation, Citation, Defining Terms DLL.
+   * Subscript, Higlighted Text, dan Line Break.
+   * Semantik Element, Header, Footer, Main dan Nav.
