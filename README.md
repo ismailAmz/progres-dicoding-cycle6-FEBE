@@ -156,10 +156,17 @@ Pengenalan ke Logika Pemrograman (Programming Logic 101). (Progres 100%).<br>
    * Evaluation.<br>
 
 **26 Februari 2024**<br>
-Belajar Dasar Pemrograman Web. (Progres 12%)<br>
+Belajar Dasar Pemrograman Web. (Progres 18%)<br>
 1. Belejar Pengantar Web Programming yang mencakup :
    * Cara Internet Bekerja.
    * Website dan Halaman Web.
    * Web Server.
    * Web Browser.
-   * Anatomi Website.
+   * Anatomi Website.<br>
+
+2. Pengantar HTML :
+   * Latihan Membangun Halaman Web Pertama (Halaman Profil).
+   * Latihan Identifikasi Elemen pada Halaman Profil.
+   * Anatomi Elemen HTML.
+   * Attribute di Element HTML.
+   * Anatomoni Dokumen HTML.<br>
