@@ -24,6 +24,7 @@ Belajar Dasar Git dengan GitHub. (Progres 27%).
    * Mengubah Tampilan Menggunakan Format Markdown.
    * Melihat History Perubahan.
    * Merilis Dokumentasi.<br>
+   
 **26 Februari 2024**<br>
 Belajar Dasar Pemrograman Web. (Progres 12%)<br>
 1. Belejar Pengantar Web Programming yang mencakup :
