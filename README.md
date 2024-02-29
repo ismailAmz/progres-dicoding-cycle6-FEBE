@@ -178,4 +178,17 @@ Belajar Dasar Pemrograman Web. (Progres 27%).<br>
    * Inline Formating Text, long Quotation dan Figure.
    * Anchor, Emphasized Text, Important Text dan Short Quotation, Citation, Defining Terms DLL.
    * Subscript, Higlighted Text, dan Line Break.
-   * Semantik Element, Header, Footer, Main dan Nav.
+   * Semantik Element, Header, Footer, Main dan Nav.<br>
+
+**28 Februari 2024**<br>
+Belajar Dasar Pemrograman Web. (Progres 50%).<br>
+1. Pendalaman HTML :
+   * Semantik Element Articlem Aside dan Section.
+   * Generik Element.
+   * Tabel, Elemen dan Atribut pada Tabel.
+   * Input user, Atribut pada Element Input.
+   * Menginput Data Formulir dan Special Character.<br>
+
+2. Pengenalan CSS :
+   * Pengantar CSS, Keuntungan dan Cara CSS Bekerja, Memberi Markup dapa Dokumen HTML.
+   * Menulis Aturan Styling dan CSS Conception.<br>
