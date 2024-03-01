@@ -192,3 +192,18 @@ Belajar Dasar Pemrograman Web. (Progres 50%).<br>
 2. Pengenalan CSS :
    * Pengantar CSS, Keuntungan dan Cara CSS Bekerja, Memberi Markup dapa Dokumen HTML.
    * Menulis Aturan Styling dan CSS Conception.<br>
+
+**29 Februari 2024**<br>
+Belajar Dasar Pemrograman Web. (Progres 87%).<br>
+1. Pengenalan CSS :
+   * Selector Dasar, Type Selector, ID Selector DLL.
+   * Combinators, Adjacent Sibling Selector, Child Selector DLL.
+   * Pseudo Selector dan Formatting Text
+   * Font Styling, Font Family, Font Size, Font Weight DLL.
+   * Text Styling, Text Decoration, Text Transform DLL.
+   * Menetapkan Nilai Warna.
+   * Opacity, Box Model, Box Element, Bos Dimenstions, Border, Padding Margin DLL.
+   * Display Roles, Bos Shadow dan Rounded Corner.
+   * Positioning, Relative, Absolute, Fixed.
+   * Floating, Clear Property, Teknik Overflow.
+   * Konfigurasi Met Tag Viewport agar Responsive, Media Query.
