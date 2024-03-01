@@ -207,3 +207,10 @@ Belajar Dasar Pemrograman Web. (Progres 87%).<br>
    * Positioning, Relative, Absolute, Fixed.
    * Floating, Clear Property, Teknik Overflow.
    * Konfigurasi Met Tag Viewport agar Responsive, Media Query.
+
+**1 Maret 2024**<br>
+Belajar Dasar Pemrograman Web. (Progres 100%).<br>
+1. Layout Responsive dengan Flexbox :
+   * Dasar - dasar Terminologi Flexbox.
+   * Properti Flexbox.
+   * Belajar Responsive dengan Flexbox.
